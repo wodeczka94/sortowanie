@@ -5,7 +5,6 @@
 #include <set>
 #include <iterator>
 
-<<<<<<< HEAD
 using namespace std ;
 
 int nazwisko()
@@ -15,7 +14,7 @@ ifstream in("nazwiska.txt");
 ofstream out("nazwiska_leksyko.txt");
 copy(istream_iterator<string>(in),istream_iterator<string>(),inserter(s,s.begin()));
 copy(s.begin(),s.end(),ostream_iterator<string>(out,"\n"));
-=======
+
 int sortowanie()  
 {
 	std::ifstream in;
@@ -63,19 +62,11 @@ int sortowanie()
   for(licznik = 0;licznik < min;licznik++)
     out << A[licznik] << std::endl;
   out.close();
->>>>>>> refs/remotes/origin/Ver.1.0_liczby_mal
 }
 
 int main()
 {
-<<<<<<< HEAD
 nazwisko();
-return 0;
-}
-=======
 sortowanie();
 return 0;
 }
-
-
->>>>>>> refs/remotes/origin/Ver.1.0_liczby_mal
