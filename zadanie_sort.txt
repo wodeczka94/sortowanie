@@ -1,0 +1,12 @@
+Praca w grupie 2 osobowej na jednym koncie Git Hub.
+
+Programista 1
+Proszê napisaæ program liczby.cpp sortuj¹cy liczby malej¹co na podstawie pliku liczby.txt. Wynik zapisz w pliku liczby_mal.txt. Swoje commity zapisuj na jednej ga³êzi o nazwie np. Ver.1.0_liczby_mal, itd...
+
+Programista 2
+Proszê napisaæ program nazwiska.cpp sortuj¹cy leksykograficznie nazwiska z pliku nazwiska.txt. Wynik zapisz w pliku nazwiska_leksyko.txt. Swoje comity zapisuj na jednej ga³êzi o nazwie Ver.1.1_nazwiska_leksyko, itd...
+
+
+Na koniec proszê scaliæ programy obu programistów w jeden o nazwie imiona_nazwiska_sort.cpp i zapisaæ jako jedn¹ wersjê na g³ównej ga³êzi o nazwie imiona_nazwiska_sort_Ver. (tu podaæ nr wersji ostatecznej.
+
+Na koniec pracy proszê przes³aæ link do repozytorium na GIT HUBie na adres: lsamluk@pwsip.edu.pl
